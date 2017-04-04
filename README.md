@@ -1,2 +1,4 @@
 # mysql
-Docker container for MySQL database
+Docker container for MySQL database.
+
+This relational database used by OpenMRS.
