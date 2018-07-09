@@ -1,7 +1,7 @@
 #
-# MySQL 5.6
+# MySQL 5.7.22
 #
 # https://hub.docker.com/_/mysql/
 #
 
-FROM mysql:5.6
+FROM mysql:5.7.22
